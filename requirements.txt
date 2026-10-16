@@ -1,2 +1,3 @@
 jupyterlab
 opensoundscape==0.13.0
+onnxruntime==1.30.0
